@@ -1,0 +1,9 @@
+{
+  "host": "127.0.0.1",
+  "port": 29770,
+  "prewatch": {
+    "player": true,
+    "entityIds": [],
+    "stream": "player"
+  }
+}

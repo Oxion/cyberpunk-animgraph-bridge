@@ -1,0 +1,10 @@
+build/
+.xmake/
+*.user
+*.suo
+.vs/
+.vscode/
+.env
+env.local.lua
+src/App/Project.hpp
+src/App/Version.rc
